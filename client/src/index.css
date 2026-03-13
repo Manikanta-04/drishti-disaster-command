@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Exo+2:wght@300;400;500;600;700&family=Share+Tech+Mono&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #050a0e;
+  --bg-secondary: #0a1628;
+  --bg-card: #0d1f35;
+  --bg-card-hover: #112540;
+  --accent-red: #ff3b3b;
+  --accent-orange: #ff7b3b;
+  --accent-yellow: #ffcb3b;
+  --accent-green: #3bff8a;
+  --accent-blue: #3b9eff;
+  --accent-cyan: #00e5ff;
+  --text-primary: #e8f4f8;
+  --text-secondary: #7aa3bc;
+  --text-muted: #3d6477;
+  --border-color: #1a3a52;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Exo 2', sans-serif;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+::-webkit-scrollbar-thumb { background: var(--accent-cyan); border-radius: 2px; }
+
+.font-display { font-family: 'Rajdhani', sans-serif; }
+.font-mono-custom { font-family: 'Share Tech Mono', monospace; }
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+.card:hover {
+  background: var(--bg-card-hover);
+  border-color: rgba(0,229,255,0.4);
+  box-shadow: 0 0 20px rgba(0,229,255,0.08);
+}
+
+.bg-grid {
+  background-image: 
+    linear-gradient(rgba(0, 229, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 229, 255, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2.5); opacity: 0; }
+}
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.2; }
+}
+@keyframes slide-up {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+@keyframes slide-left {
+  from { transform: translateX(-20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+.animate-pulse-ring { animation: pulse-ring 2s ease-out infinite; }
+.animate-blink { animation: blink 1.5s ease-in-out infinite; }
+.animate-slide-up { animation: slide-up 0.5s ease-out forwards; }
+.animate-slide-left { animation: slide-left 0.5s ease-out forwards; }
+
+.delay-100 { animation-delay: 100ms; }
+.delay-200 { animation-delay: 200ms; }
+.delay-300 { animation-delay: 300ms; }
+.delay-400 { animation-delay: 400ms; }
+.delay-500 { animation-delay: 500ms; }
+.delay-600 { animation-delay: 600ms; }
+
+/* Leaflet dark theme */
+.leaflet-container { background: #050a0e !important; }
+.leaflet-tile-pane { filter: brightness(0.65) saturate(0.5) hue-rotate(180deg) invert(1); }
+.leaflet-control-zoom a {
+  background: #0d1f35 !important;
+  color: #00e5ff !important;
+  border-color: #1a3a52 !important;
+}
+.leaflet-popup-content-wrapper {
+  background: #0a1628 !important;
+  border: 1px solid #00e5ff !important;
+  color: #e8f4f8 !important;
+  border-radius: 6px !important;
+  box-shadow: 0 0 20px rgba(0,229,255,0.2) !important;
+}
+.leaflet-popup-tip { background: #0a1628 !important; }

@@ -1,0 +1,52 @@
+[2026-03-11 19:11:08] [32minfo[39m: ✅ MongoDB Atlas Connected: ac-svlwoia-shard-00-00.qzxekqr.mongodb.net
+[2026-03-11 19:11:08] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-11 19:11:08] [32minfo[39m: 🚀 DRISHTI Disaster Server running on port 5000
+[2026-03-11 19:11:08] [32minfo[39m: 📡 API Base URL : http://localhost:5000/api
+[2026-03-11 19:11:08] [32minfo[39m: 🔋 Health Check : http://localhost:5000/api/health
+[2026-03-11 19:11:08] [32minfo[39m: 🌍 Environment  : development
+[2026-03-11 19:11:08] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-11 19:13:32] [32minfo[39m: ✅ MongoDB Atlas Connected: ac-svlwoia-shard-00-00.qzxekqr.mongodb.net
+[2026-03-11 19:13:32] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-11 19:13:32] [32minfo[39m: 🚀 DRISHTI Disaster Server running on port 5000
+[2026-03-11 19:13:32] [32minfo[39m: 📡 API Base URL : http://localhost:5000/api
+[2026-03-11 19:13:32] [32minfo[39m: 🔋 Health Check : http://localhost:5000/api/health
+[2026-03-11 19:13:32] [32minfo[39m: 🌍 Environment  : development
+[2026-03-11 19:13:32] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-11 21:35:43] [32minfo[39m: 🔌 Client connected: C0NZgcXztZOiuFN4AAAB
+[2026-03-11 21:36:52] [32minfo[39m: 🔌 Client connected: K2L3ry9k4g9IKaXPAAAD
+[2026-03-11 21:44:46] [32minfo[39m: 🔌 Client disconnected: C0NZgcXztZOiuFN4AAAB
+[2026-03-11 21:44:49] [32minfo[39m: 🔌 Client connected: 4FRzDGa0G3Uo2Oa7AAAF
+[2026-03-11 21:51:26] [32minfo[39m: 🔌 Client disconnected: K2L3ry9k4g9IKaXPAAAD
+[2026-03-11 21:51:26] [32minfo[39m: 🔌 Client disconnected: 4FRzDGa0G3Uo2Oa7AAAF
+[2026-03-11 21:53:23] [32minfo[39m: 🔌 Client connected: 6_gQ4An4MlMMMb5gAAAI
+[2026-03-11 21:53:23] [32minfo[39m: 🔌 Client connected: K37mCLU469NvBB9tAAAJ
+[2026-03-11 21:53:53] [32minfo[39m: 🔌 Client disconnected: K37mCLU469NvBB9tAAAJ
+[2026-03-11 21:53:55] [32minfo[39m: 🔌 Client disconnected: 6_gQ4An4MlMMMb5gAAAI
+[2026-03-11 21:54:02] [32minfo[39m: ✅ MongoDB Atlas Connected: ac-svlwoia-shard-00-00.qzxekqr.mongodb.net
+[2026-03-11 21:54:02] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-11 21:54:02] [32minfo[39m: 🚀 DRISHTI Disaster Server running on port 5000
+[2026-03-11 21:54:02] [32minfo[39m: 📡 API Base URL : http://localhost:5000/api
+[2026-03-11 21:54:02] [32minfo[39m: 🔋 Health Check : http://localhost:5000/api/health
+[2026-03-11 21:54:02] [32minfo[39m: 🌍 Environment  : development
+[2026-03-11 21:54:02] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-12 19:08:29] [32minfo[39m: ✅ MongoDB Atlas Connected: ac-svlwoia-shard-00-00.qzxekqr.mongodb.net
+[2026-03-12 19:08:29] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-12 19:08:29] [32minfo[39m: 🚀 DRISHTI Disaster Server running on port 5000
+[2026-03-12 19:08:29] [32minfo[39m: 📡 API Base URL : http://localhost:5000/api
+[2026-03-12 19:08:29] [32minfo[39m: 🔋 Health Check : http://localhost:5000/api/health
+[2026-03-12 19:08:29] [32minfo[39m: 🌍 Environment  : development
+[2026-03-12 19:08:29] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-12 19:08:48] [32minfo[39m: 🔌 Client connected: rHPxi8lSa-eva5yGAAAB
+[2026-03-12 19:19:15] [32minfo[39m: 🔌 Client disconnected: rHPxi8lSa-eva5yGAAAB
+[2026-03-13 18:08:02] [32minfo[39m: ✅ MongoDB Atlas Connected: ac-svlwoia-shard-00-00.qzxekqr.mongodb.net
+[2026-03-13 18:08:02] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-13 18:08:02] [32minfo[39m: 🚀 DRISHTI Disaster Server running on port 5000
+[2026-03-13 18:08:02] [32minfo[39m: 📡 API Base URL : http://localhost:5000/api
+[2026-03-13 18:08:02] [32minfo[39m: 🔋 Health Check : http://localhost:5000/api/health
+[2026-03-13 18:08:02] [32minfo[39m: 🌍 Environment  : development
+[2026-03-13 18:08:02] [32minfo[39m: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-03-13 18:08:02] [32minfo[39m: 🔌 Client connected: vk0Ht6T3lja4yrFmAAAB
+[2026-03-13 18:16:51] [32minfo[39m: Alert created: Test Flood Alert [critical]
+[2026-03-13 18:20:57] [32minfo[39m: Alert created: Test  Alert [high]
+[2026-03-13 18:23:54] [32minfo[39m: Alert created: alert for manikanta [critical]
+[2026-03-13 19:20:23] [32minfo[39m: 🔌 Client disconnected: vk0Ht6T3lja4yrFmAAAB
