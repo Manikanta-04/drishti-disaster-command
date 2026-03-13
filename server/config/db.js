@@ -3,7 +3,8 @@ const logger = require('../utils/logger');
 
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect(process.env.MONGO_URI, {
+    const uri = process.env.MONGODB_URI || process.env.MONGO_URI;
+    const conn = await mongoose.connect(uri, {
       serverSelectionTimeoutMS: 5000,
     });
     logger.info(`✅ MongoDB Atlas Connected: ${conn.connection.host}`);
