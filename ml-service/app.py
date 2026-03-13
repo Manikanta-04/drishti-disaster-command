@@ -57,8 +57,7 @@ def root():
             "POST /predict/heatwave",
             "POST /predict/multi-hazard",
         ],
-        "docs": "http://localhost:8000/docs",
-    }
+"docs": "/docs",    }
 
 @app.get("/health", tags=["Health"])
 def health():
