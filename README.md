@@ -6,7 +6,7 @@
 
 ### *AI-Powered Disaster Monitoring, Prediction & Real-Time Response*
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-drishti--command.vercel.app-0070f3?style=flat-square)](https://drishti-command.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-drishti--command.vercel.app-0070f3?style=flat-square)](https://drishti-disaster-command.vercel.app/)
 [![Backend API](https://img.shields.io/badge/⚙️%20Backend%20API-drishti--api.onrender.com-10b981?style=flat-square)](https://drishti-api.onrender.com)
 [![ML Service](https://img.shields.io/badge/🤖%20ML%20Service-drishti--ml.onrender.com-8b5cf6?style=flat-square)](https://drishti-ml.onrender.com/docs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
