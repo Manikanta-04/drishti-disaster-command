@@ -30,7 +30,7 @@ Built to empower **emergency authorities, relief organizations, and first respon
 
 | Service | URL | Status |
 |---|---|---|
-| 🌐 Frontend | [drishti-command.vercel.app](https://drishti-command.vercel.app) | ![Vercel](https://img.shields.io/badge/Vercel-Live-brightgreen?style=flat-square) |
+| 🌐 Frontend | [drishti-command.vercel.app](https://drishti-disaster-command.vercel.app/) | ![Vercel](https://img.shields.io/badge/Vercel-Live-brightgreen?style=flat-square) |
 | ⚙️ Backend API | [drishti-api.onrender.com](https://drishti-api.onrender.com) | ![Render](https://img.shields.io/badge/Render-Live-brightgreen?style=flat-square) |
 | 🤖 ML Swagger Docs | [drishti-ml.onrender.com/docs](https://drishti-ml.onrender.com/docs) | ![FastAPI](https://img.shields.io/badge/FastAPI-Live-brightgreen?style=flat-square) |
 
@@ -156,7 +156,7 @@ drishti-disaster-command/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/drishti-disaster-command.git
+git clone https://github.com/Manikanta-04/drishti-disaster-command.git
 cd drishti-disaster-command
 ```
 
@@ -324,7 +324,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ⭐ **Star this repo** if DRISHTI helped or inspired you!
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/drishti-disaster-command?style=social)](https://github.com/YOUR_USERNAME/drishti-disaster-command)
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/drishti-disaster-command?style=social)](https://github.com/Manikanta-04/drishti-disaster-command)
 
 ---
 
